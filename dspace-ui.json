@@ -9,7 +9,7 @@
            "env": {
               "NODE_ENV": "production",
               "DSPACE_REST_SSL": "true",
-              "DSPACE_REST_HOST": "repository.mnu.kz",
+              "DSPACE_REST_HOST": "nara.mnu.kz",
               "DSPACE_REST_PORT": "443",
               "DSPACE_REST_NAMESPACE": "/server"
            }
